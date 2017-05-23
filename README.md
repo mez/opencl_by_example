@@ -7,7 +7,7 @@ my work with a macair late 2012 model; I quickly realized
 I couldn't run my CUDA code. My machine has an Intel HD 4000, I know, it sucks, 
 but still usuable! My search on how to best make use of it led me to OpenCL.
 
-My interests with OpenCL is primarly motivated by my interested in Deep Learning.
+My interests with OpenCL is primarly motivated by my interests in Deep Learning.
 I want a better understanding of how these frameworks are making use 
 of GPGPU to blaze through model training.
 
