@@ -2,9 +2,9 @@ Welcome to OpenCL by Examples using C++.
 -
 
 ### Why OpenCL? 
-I actually started working and learning CUDA first, but I do
+I actually started learning CUDA for GPGPU first, but since I do
 my work with a macair late 2012 model; I quickly realized
-I couldn't run my CUDA code. My machine has an Intel HD 4000, I know, it sucks, 
+I couldn't run CUDA code. My machine has an Intel HD 4000, I know, it sucks, 
 but still usuable! My search on how to best make use of it led me to OpenCL.
 
 My interests with OpenCL is primarly motivated by my interests in Deep Learning.
@@ -65,7 +65,10 @@ The following are terms to know:
 * **Buffer**: A chunk of memory on the device.
 * **Memory**: Can be global/local/private/constant (more on this later.)
 * **Compute Unit**: Think of a GPU core. 
+<<<<<<< HEAD
 
 
 ### OpenCL Memory Model
 ![alt text](documentation_images/opencl_memory_model.png)
+=======
+>>>>>>> e25e7cdcd2af39824015ae7e5c2a1fe1b472f1a5
