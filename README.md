@@ -4,7 +4,7 @@ Welcome to OpenCL by Examples using C++.
 ### Why OpenCL? 
 I actually started working and learning CUDA first, but I do
 my work with a macair late 2012 model; I quickly realized
-I couldn't run my CUDA code. My machine has an Intel HD 4000, I know sucks, 
+I couldn't run my CUDA code. My machine has an Intel HD 4000, I know, it sucks, 
 but still usuable! My search on how to best make use of it led me to OpenCL.
 
 My interests with OpenCL is primarly motivated by my interested in Deep Learning.
