@@ -14,4 +14,4 @@ else()
 endif()
 
 # every example gets their own executable.
-add_executable(example0 example0.cpp)
+add_executable(example0 example0.cc)
