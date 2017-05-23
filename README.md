@@ -65,10 +65,7 @@ The following are terms to know:
 * **Buffer**: A chunk of memory on the device.
 * **Memory**: Can be global/local/private/constant (more on this later.)
 * **Compute Unit**: Think of a GPU core. 
-<<<<<<< HEAD
 
 
 ### OpenCL Memory Model
 ![alt text](documentation_images/opencl_memory_model.png)
-=======
->>>>>>> e25e7cdcd2af39824015ae7e5c2a1fe1b472f1a5
